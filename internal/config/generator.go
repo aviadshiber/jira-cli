@@ -12,9 +12,9 @@ import (
 	"github.com/AlecAivazis/survey/v2/core"
 	"github.com/spf13/viper"
 
-	"github.com/ankitpokhrel/jira-cli/api"
-	"github.com/ankitpokhrel/jira-cli/internal/cmdutil"
-	"github.com/ankitpokhrel/jira-cli/pkg/jira"
+	"github.com/aviadshiber/jira-cli/api"
+	"github.com/aviadshiber/jira-cli/internal/cmdutil"
+	"github.com/aviadshiber/jira-cli/pkg/jira"
 )
 
 const (
